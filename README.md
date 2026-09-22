@@ -4,3 +4,9 @@ Contínua.
 
 ## Objetivo
 Aprender os conceitos básicos de Git e GitHub.
+
+## Integrantes
+- Altair Preto de Godoi Junior
+- Diego Lopes da Silva
+- Miguei Rodrigues
+- Pietro Henrique Vito
